@@ -4,6 +4,7 @@
   "apps": [
     {
       "id": "mlvc",
+      "icon": "https://nyaohtech.github.io/nyaohtech-apps/icons/mlvc.png",
       "name": "MLVC",
       "kind": "free",
       "description": "VRChat プロジェクト / VPM パッケージ管理ツール",
@@ -17,6 +18,7 @@
     },
     {
       "id": "vsa",
+      "icon": "https://nyaohtech.github.io/nyaohtech-apps/icons/vsa.png",
       "name": "VSA",
       "kind": "free",
       "description": "VRChat のキャッシュ容量の確認・スクリーンショット整理・config.json 編集ツール",
@@ -31,6 +33,7 @@
     },
     {
       "id": "vla",
+      "icon": "https://nyaohtech.github.io/nyaohtech-apps/icons/vla.png",
       "name": "VLA",
       "kind": "paid",
       "description": "",
