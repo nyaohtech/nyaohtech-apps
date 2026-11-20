@@ -2,10 +2,10 @@
   "news": [],
   "ads": [],
   "hub": {
-    "latest": "0.2.0",
-    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.2.0/NyaohtechHub_Setup.exe",
-    "sha256": "0fcf5db81e28ff66d02b9ef3939194e05cbc5d318020d7bfadad8f0c1b5b4cb5",
-    "notes": ["有料アプリの更新通知、トレイ常駐、Hub 自身の更新に対応"]
+    "latest": "0.2.1",
+    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.2.1/NyaohtechHub_Setup.exe",
+    "sha256": "33ced52ce09042229c6d854c6bcbb49bdf032f359916553983e69b4310bad6dc",
+    "notes": ["アプリのアイコンの表示位置のずれを修正"]
   },
   "apps": [
     {
