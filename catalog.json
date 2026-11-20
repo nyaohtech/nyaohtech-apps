@@ -14,6 +14,29 @@
       "history": [
         { "version": "0.2.0", "date": "2026-11-20", "notes": ["最初の公開版"] }
       ]
+    },
+    {
+      "id": "vsa",
+      "name": "VSA",
+      "kind": "free",
+      "description": "VRChat のキャッシュ容量の確認・スクリーンショット整理・config.json 編集ツール",
+      "appId": "8F3A1C6E-4B2D-4E9A-9C71-0A57C4E1B203",
+      "latest": "1.0.0",
+      "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/vsa-1.0.0/VSA_Setup.exe",
+      "sha256": "ac3d88890fe4a281fa5445bfcaf0f0a1ccd4e4d98927ce73c902a527f154a48c",
+      "boothUrl": "https://nyaohtech.booth.pm/items/8623413",
+      "history": [
+        { "version": "1.0.0", "date": "2026-11-20", "notes": ["無料で配布開始"] }
+      ]
+    },
+    {
+      "id": "vla",
+      "name": "VLA",
+      "kind": "paid",
+      "description": "",
+      "latest": "",
+      "boothUrl": "https://nyaohtech.booth.pm/items/7515507",
+      "history": []
     }
   ]
 }
