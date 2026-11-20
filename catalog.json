@@ -2,10 +2,10 @@
   "news": [],
   "ads": [],
   "hub": {
-    "latest": "0.3.0",
-    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.0/NyaohtechHub_Setup.exe",
-    "sha256": "e41466510b705991abdb473b1a2396448eddff5211826c2a470544f5d2fb821d",
-    "notes": ["VLA が起動しているとき、更新情報を確認するようにした"]
+    "latest": "0.3.1",
+    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.1/NyaohtechHub_Setup.exe",
+    "sha256": "41463474ca53657a7278055db1538ce7898abace6559f52512051c9d632e2c06",
+    "notes": ["ライブラリをカード表示にした", "更新の前に変更内容を確認できるようにした"]
   },
   "apps": [
     {
@@ -13,6 +13,7 @@
       "icon": "https://nyaohtech.github.io/nyaohtech-apps/icons/mlvc.png",
       "name": "MLVC",
       "kind": "free",
+      "summary": "VRChat プロジェクトと VPM パッケージをまとめて管理",
       "description": "VRChat プロジェクト / VPM パッケージ管理ツール",
       "appId": "4C1E9A70-2D8B-4F3A-9C55-7A0E1B6D2F31",
       "latest": "0.2.0",
@@ -27,6 +28,7 @@
       "icon": "https://nyaohtech.github.io/nyaohtech-apps/icons/vsa.png",
       "name": "VSA",
       "kind": "free",
+      "summary": "キャッシュ容量・スクリーンショット・config.json を一か所で",
       "description": "VRChat のキャッシュ容量の確認・スクリーンショット整理・config.json 編集ツール",
       "appId": "8F3A1C6E-4B2D-4E9A-9C71-0A57C4E1B203",
       "latest": "1.0.0",
