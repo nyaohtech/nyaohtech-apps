@@ -9,8 +9,8 @@
       "description": "VRChat プロジェクト / VPM パッケージ管理ツール",
       "appId": "4C1E9A70-2D8B-4F3A-9C55-7A0E1B6D2F31",
       "latest": "0.2.0",
-      "installerUrl": "",
-      "sha256": "",
+      "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/mlvc-0.2.0/MLVC_Setup.exe",
+      "sha256": "5265f64114eb081d67c61479a110e7d76517d3869a2d3df04db38322c4a82819",
       "history": [
         { "version": "0.2.0", "date": "2026-11-20", "notes": ["最初の公開版"] }
       ]
