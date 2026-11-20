@@ -2,10 +2,10 @@
   "news": [],
   "ads": [],
   "hub": {
-    "latest": "0.2.1",
-    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.2.1/NyaohtechHub_Setup.exe",
-    "sha256": "33ced52ce09042229c6d854c6bcbb49bdf032f359916553983e69b4310bad6dc",
-    "notes": ["アプリのアイコンの表示位置のずれを修正"]
+    "latest": "0.3.0",
+    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.0/NyaohtechHub_Setup.exe",
+    "sha256": "e41466510b705991abdb473b1a2396448eddff5211826c2a470544f5d2fb821d",
+    "notes": ["VLA が起動しているとき、更新情報を確認するようにした"]
   },
   "apps": [
     {
@@ -43,7 +43,10 @@
       "name": "VLA",
       "kind": "paid",
       "description": "",
-      "latest": "",
+      "latest": "4.5.0",
+      "appId": "8F3A2B1C-4D5E-6F7A-8B9C-0D1E2F3A4B5C",
+      "process": "VLA",
+      "guideUrl": "https://nyaohtech.raindrop.jp/manual/vla/",
       "boothUrl": "https://nyaohtech.booth.pm/items/7515507",
       "history": []
     }
