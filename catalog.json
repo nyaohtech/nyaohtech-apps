@@ -1,0 +1,19 @@
+{
+  "news": [],
+  "ads": [],
+  "apps": [
+    {
+      "id": "mlvc",
+      "name": "MLVC",
+      "kind": "free",
+      "description": "VRChat プロジェクト / VPM パッケージ管理ツール",
+      "appId": "4C1E9A70-2D8B-4F3A-9C55-7A0E1B6D2F31",
+      "latest": "0.2.0",
+      "installerUrl": "",
+      "sha256": "",
+      "history": [
+        { "version": "0.2.0", "date": "2026-11-20", "notes": ["最初の公開版"] }
+      ]
+    }
+  ]
+}
