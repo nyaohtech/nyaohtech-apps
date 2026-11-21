@@ -2,10 +2,10 @@
   "news": [],
   "ads": [],
   "hub": {
-    "latest": "0.3.2",
-    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.2/NyaohtechHub_Setup.exe",
-    "sha256": "102dc26e2da989a72d069a68ad2ef851902ce94b3796634b601b9d60f7008a4b",
-    "notes": ["設定に利用規約・通信とプライバシー・ライセンスを追加", "広告枠を日替わりにし、ライブラリの下にも表示（×で閉じられる）"]
+    "latest": "0.3.3",
+    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.3/NyaohtechHub_Setup.exe",
+    "sha256": "c517d0fd5abf5facc0a3f4989e9183fc8dc22c4c41fd14ba7c717c6bfeab8231",
+    "notes": ["ライブラリをアプリ・拡張機能・ほかの製品に分けて表示", "VSA の使い方ガイドへのリンクを追加", "広告の設定スイッチを廃止し、広告はホームだけに表示"]
   },
   "apps": [
     {
@@ -34,6 +34,7 @@
       "latest": "1.0.0",
       "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/vsa-1.0.0/VSA_Setup.exe",
       "sha256": "ac3d88890fe4a281fa5445bfcaf0f0a1ccd4e4d98927ce73c902a527f154a48c",
+      "guideUrl": "https://nyaohtech.raindrop.jp/manual/vsa/",
       "boothUrl": "https://nyaohtech.booth.pm/items/8623413",
       "history": [
         { "version": "1.0.0", "date": "2026-11-20", "notes": ["無料で配布開始"] }
