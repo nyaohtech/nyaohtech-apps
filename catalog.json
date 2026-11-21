@@ -2,10 +2,10 @@
   "news": [],
   "ads": [],
   "hub": {
-    "latest": "0.3.1",
-    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.1/NyaohtechHub_Setup.exe",
-    "sha256": "41463474ca53657a7278055db1538ce7898abace6559f52512051c9d632e2c06",
-    "notes": ["ライブラリをカード表示にした", "更新の前に変更内容を確認できるようにした"]
+    "latest": "0.3.2",
+    "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/hub-0.3.2/NyaohtechHub_Setup.exe",
+    "sha256": "102dc26e2da989a72d069a68ad2ef851902ce94b3796634b601b9d60f7008a4b",
+    "notes": ["設定に利用規約・通信とプライバシー・ライセンスを追加", "広告枠を日替わりにし、ライブラリの下にも表示（×で閉じられる）"]
   },
   "apps": [
     {
