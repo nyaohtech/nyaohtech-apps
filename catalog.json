@@ -16,10 +16,25 @@
       "summary": "VRChat プロジェクトと VPM パッケージをまとめて管理",
       "description": "VRChat プロジェクト / VPM パッケージ管理ツール",
       "appId": "4C1E9A70-2D8B-4F3A-9C55-7A0E1B6D2F31",
-      "latest": "0.2.0",
-      "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/mlvc-0.2.0/MLVC_Setup.exe",
-      "sha256": "5265f64114eb081d67c61479a110e7d76517d3869a2d3df04db38322c4a82819",
+      "latest": "0.3.1",
+      "installerUrl": "https://github.com/nyaohtech/nyaohtech-apps/releases/download/mlvc-0.3.1/MLVC_Setup.exe",
+      "sha256": "ad0d30d3aa3654ab10cd330a2ab84954126cb83d765fdc35f18c2d84c0ff8627",
       "history": [
+        {
+          "version": "0.3.1",
+          "date": "2026-11-23",
+          "notes": [
+            "プロジェクト一覧の更新日時を、Assets の実ファイルから求めるようにしました。一括アップデートや掃除で、並び順がリセットされなくなります。",
+            "Unity を閉じたあとに、容量と「圧縮済み」の表示（Library が無いものは緑）を、そのプロジェクトだけ読み直すようにしました。",
+            "大量のプロジェクトを扱うときの固まりを減らしました（一覧の読み込みの非同期化、行の仮想化、サムネイルのキャッシュ）。",
+            "エディタ終了時のシーン画像が縦長のとき、拡大されて切れる問題を直しました。",
+            "Library を削除する圧縮の前に、最後に開いていたシーンの情報を控え、次に開くときに戻すようにしました。",
+            "VLA で入れた商品の画像を、FileView に渡せるようにしました。",
+            "圧縮・クリーンアップの前後で Assets のファイル数を記録し、減っていたら警告するようにしました。開く前にも、前回より減っていないか確かめます。",
+            "完全削除の最終確認を、プロジェクト名ではなく DELETE の入力にしました。",
+            "同名のフォルダがあるときに、新規作成の中断記録から、既存のフォルダを消してしまう可能性があった問題を直しました。"
+          ]
+        },
         { "version": "0.2.0", "date": "2026-11-20", "notes": ["最初の公開版"] }
       ]
     },
